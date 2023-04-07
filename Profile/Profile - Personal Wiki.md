@@ -2,7 +2,7 @@
   
   My name is Akin Wumi! I am a **technologist and pan-Africanist.** When I am not building tools to solve problems, I tell stories about my realities (mostly as an African) through my writings ~~and/or videos~~.
   
-  I am convinced that technology (actionable esoteric knowledge) will enable people of African origin to overcome their current setbacks and become ≥ 10X better in the near future. 
+  I am convinced that technology (actionable esoteric knowledge) will enable people of African origin to overcome their current setbacks and become ≥ 10X better in the near future. Now
   
   Speaking of setbacks, the African has been **far behind for far too long,** and the time has come to finally redress this.
   
