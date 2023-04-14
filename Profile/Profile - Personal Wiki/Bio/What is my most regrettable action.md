@@ -1,2 +1,0 @@
-- I regret all the consequential times that I took the path of least resistance.
-	- Ever doing/participating in a Ponzi scheme.
