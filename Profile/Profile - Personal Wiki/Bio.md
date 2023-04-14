@@ -214,11 +214,11 @@
 [[Ghost.org](http://Ghost.org) (potentially).](Bio%2068c9075e933b4ae9900ecf449b5bb9b7/Ghost%20org%20(potentially)%20ace6ddd994e14cfba9a32f981dc81f35.md)
 
 [[MacBook]]
-### Quotes
-
-[[Be ashamed to die until you have won some victory for humanity - Horace Mann]]
-
-[[I Am Not African Because I Was Born In Africa But Because Africa Was Born In Me - Kwame Nkrumah]]
+- ### Favourite Quotes
+  
+  [[Be ashamed to die until you have won some victory for humanity - Horace Mann]]
+  
+  [[I Am Not African Because I Was Born In Africa But Because Africa Was Born In Me - Kwame Nkrumah]]
 # Others
 
 [[My religious belief system]]

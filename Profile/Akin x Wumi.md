@@ -1,0 +1,8 @@
+- ### How far? 🤝
+- My name is Akin Wumi. I am a **technologist and pan-Africanist.** When I am not building [[Tools]] to solve problems, I tell stories about my realities (mostly as an African) through my [[writings]] ~~and/or videos~~.
+- I am also curating a list of [[Random Stuffs]] that I find relevant. Perhaps, you might as well.
+- ~~I am convinced that technology (actionable esoteric knowledge) will enable people of African origin to overcome their current setbacks and become ≥ 10X better in the near future.~~
+- ~~Speaking of setbacks, the African has been **far behind for far too long,** and the time has come to finally redress this. Modern advancements in computing and networking have provided us with a once-in-a-lifetime lifeline that we must take advantage of to solve our countless problems.~~
+- ~~My raison d'être is to help us achieve this in whatever way.~~
+- ~~Here is my [[Personal Wiki]] and other [[Random Stuffs]].~~
+- To connect with me, you can send an email to [hi@akinxwumi.com](mailto:akinxwumi.com), reach out on [Twitter](https://twitter.com/akinxwumi), and [Instagram](https://instagram.com/akinxwumi).
